@@ -2,6 +2,8 @@ let data = [
     {
         judul : "Sangkuriang",
         daerah : "Jawa",
+        img : "https://cdn.popmama.com/content-images/post/20200604/sangkuriangjpg-7d62f9ab74a7122f1dfe48070ca6f03a_800x420.jpg",
+        synopsis : "Dahulu kala di Jawa Barat hiduplah seorang Putri Raja bernama Dayang Sumbi yang mempunyai seorang anak laki-laki bernama Sangkuriang. Sangkuriang amat senang berburu, setiap berburu ia ditemani oleh anjingnya, Si Tumang. Sangkuriang tidak mengetahui bahwa anjing itu adalah titisan dewa langit yang sebenarnya adalah ayah Sangkuriang.",
         isi : `Dahulu kala di Jawa Barat hiduplah seorang Putri Raja bernama Dayang Sumbi yang mempunyai seorang anak laki-laki bernama Sangkuriang. Sangkuriang amat senang berburu, setiap berburu ia ditemani oleh anjingnya, Si Tumang. Sangkuriang tidak mengetahui bahwa anjing itu adalah titisan dewa langit yang sebenarnya adalah ayah Sangkuriang.
 
         Suatu hari Sangkuriang dan Si Tumang pergi berburu ke hutan namun kali ini Si Tumang tidak mau mengikuti perintahnya untuk mengejar hewan buruan. Sangkuriang sangat kesal melihatnya, kemudian ia mengusir Tumang ke dalam hutan dan sangkuriang langsung kembali ke istana. Kemudian ia menceritakan kejadian itu pada ibunya.
@@ -35,6 +37,8 @@ let data = [
     {
         judul : "Candi Prambanan",
         daerah : "Jawa",
+        img : "https://i0.wp.com/2.bp.blogspot.com/-FfbGzNVbjnE/W9xpZ1H9OiI/AAAAAAAAALI/Z1FPYIoIEjIdZPZcnXNRDK8-HhEzwTWtwCLcBGAs/s1600/narative%2Bprambanan.jpg?ssl=1",
+        synopsis : " Pada zaman dahulu terdapat sebuah Kerajaan besar yaitu Kerajaan Prambanan. Rakyatnya hidup damai dan sejahtera. Namun ketenteraman Kerajaan Prambanan terusik dan berubah menjadi menakutkan karena diserang oleh Kerajaan Pengging. Para panglima dan pengawal tak mampu menghadapi pasukan Kerajaan Pengging yang datang tiba-tiba. Akhirnya Kerajaan Prambanan dijajah dan berhasil dikuasai oleh Kerajaan Pengging yang dipimpin oleh Bandung Bondowoso.",
         isi : `
         Pada zaman dahulu terdapat sebuah Kerajaan besar yaitu Kerajaan Prambanan. Rakyatnya hidup damai dan sejahtera. Namun ketenteraman Kerajaan Prambanan terusik dan berubah menjadi menakutkan karena diserang oleh Kerajaan Pengging. Para panglima dan pengawal tak mampu menghadapi pasukan Kerajaan Pengging yang datang tiba-tiba. Akhirnya Kerajaan Prambanan dijajah dan berhasil dikuasai oleh Kerajaan Pengging yang dipimpin oleh Bandung Bondowoso.
         
@@ -90,6 +94,8 @@ let data = [
     {
         judul : "Lutung Kasarung",
         daerah : "Jawa",
+        img : "https://i0.wp.com/2.bp.blogspot.com/-FfbGzNVbjnE/W9xpZ1H9OiI/AAAAAAAAALI/Z1FPYIoIEjIdZPZcnXNRDK8-HhEzwTWtwCLcBGAs/s1600/narative%2Bprambanan.jpg?ssl=1",
+        synopsis : "Pada zaman dahulu di Pasundan, berdiri sebuah kerajaan. Kerajaan itu dipimpin oleh seorang raja bernama Prabu Tapak Agung.Prabu Tapak Agung terkenal sebagai raja yang bijaksana dan baik hati,Prabu Tapak Agung hidup bersama dua putrinya, yaitu Purbararang dan Purbasari. Usia Prabu Tapak Agung sudah tua. Prabu Tapak Agung berfirasat umurnya tak akan lama lagi. Ia pun segera mengumpulkan kedua purrinya.",
         isi : `Prabu Tapak Agung Raja Pasundan
         Pada zaman dahulu di Pasundan, berdiri sebuah kerajaan. Kerajaan itu dipimpin oleh seorang raja bernama Prabu Tapak Agung.
         
@@ -167,6 +173,8 @@ let data = [
     {
         judul : "Nyi Roro Kidul",
         daerah : "Jawa",
+        img : "https://i.ytimg.com/vi/V5-Tk7Y09mY/maxresdefault.jpg",
+        synopsis : "Dikisahkan bahwa di tanah Jawa, terdapat sebuah daerah bernama Padjadjaran. Daerah Padjadjaran ini merupakan sebuah kerajaan purba yang dipimpin oleh Prabu Siliwangi ke VI. Prabu Siliwangi ini memiliki kegemaran berburu hewan di hutan belantara.        ",
         isi :  `Dikisahkan bahwa di tanah Jawa, terdapat sebuah daerah bernama Padjadjaran. Daerah Padjadjaran ini merupakan sebuah kerajaan purba yang dipimpin oleh Prabu Siliwangi ke VI. Prabu Siliwangi ini memiliki kegemaran berburu hewan di hutan belantara.
 
         Suatu hari ketika ia sedang asyik berburu, secara tidak sadar ia masuk ke dalam hutan yang lebih jauh. Akhirnya Prabu Siliwangi tidak menemukan jalan keluar dan tersesat di hutan tersebut.
@@ -203,12 +211,14 @@ let data = [
         
         Putri Kadita merasa yakin dengan suara tersebut dan kemudian berlari ke arah pantai selatan. Pelarian tersebut berlangsung selama berhari – hari. Di sana ia mendengarkan suara ibunya kembali dan menyuruhnya mencerbukan diri ke dalam laut jika ingin penyakitnya sembuh.
         
-        Ajaibnya, penyakit kulit Putri Kadita benar – benar sembuh. Putri Kadita pun memutuskan tinggal di laut dan membangun istana serta mengumpulkan ribuan pasukan. Hingga kini Putri Kadita yang memiliki nama lain sebagai Nyi Roro Kidul mampu membangun istana besar dan menjadi ratu penguasa di pantai selatan.
+        Ajaibnya, penyakit kulit Putri Kadita benar - benar sembuh. Putri Kadita pun memutuskan tinggal di laut dan membangun istana serta mengumpulkan ribuan pasukan. Hingga kini Putri Kadita yang memiliki nama lain sebagai Nyi Roro Kidul mampu membangun istana besar dan menjadi ratu penguasa di pantai selatan.
         `,
     },
     {
         judul : "Maling Kundang",
         daerah : "Sumatra",
+        img : "https://i.ytimg.com/vi/IQW64q5-lNE/maxresdefault.jpg",
+        synopsis : "`Di pesisir pulau Sumatera, hiduplah seorang ibu beserta anaknya yang bernama Malin Kundang. Mereka hidup miskin dan serba kekurangan. Suatu hari, Malin Kundang ingin merantau ke pulau seberang. Ia berharap bisa menjadi orang kaya di sana.",
         isi : `Di pesisir pulau Sumatera, hiduplah seorang ibu beserta anaknya yang bernama Malin Kundang. Mereka hidup miskin dan serba kekurangan. Suatu hari, Malin Kundang ingin merantau ke pulau seberang. Ia berharap bisa menjadi orang kaya di sana.
 
         “Aku ingin merantau ke pulau seberang, Ibu. Di sana, pasti kehidupan kita akan menjadi lebih baik.” Permintaan izin Malin Kundang kepada ibunya.
@@ -248,6 +258,8 @@ let data = [
     {
         judul : "Legenda Nai Manggale",
         daerah : "Sumatra",
+        img : "https://3.bp.blogspot.com/-h_atLztlcE8/XYZ6iwi08cI/AAAAAAAABZk/HmOy0OQnp3U6YcUU3-FeAJ0n0fU0-nDIgCLcBGAsYHQ/s1600-rw/056-Nai-Manggale-%2528Si-Gale-Gale%2529-600x300-OPT-min.jpg",
+        synopsis : "Pada zaman dahulu kala di Tapanuli, Sumatera Utara, hiduplah seorang pematung terkenal bernama Datu Panggana. Ketika dia menerima pesanan, dia pergi ke hutan untuk mencari kayu yang paling cocok dan diukir sesuai pesanan.Suatu hari, dia mendapat inspirasi untuk mengukir kayu yang dia temukan.",
         isi : `Pada zaman dahulu kala di Tapanuli, Sumatera Utara, hiduplah seorang pematung terkenal bernama Datu Panggana.
         Ketika dia menerima pesanan, dia pergi ke hutan untuk mencari kayu yang paling cocok dan diukir sesuai pesanan.
         Suatu hari, dia mendapat inspirasi untuk mengukir kayu yang dia temukan.
@@ -297,6 +309,8 @@ let data = [
     {
         judul : "Danau Singkarak",
         daerah : "Sumatra",
+        img : "https://bahasainggrismudahsite.files.wordpress.com/2017/12/singkarak-lake.png?w=1108",
+        synopsis : "Di suatu kampung daerah Sumatra Barat, hiduplah keluarga Pak Buyung. Ia tinggal di sebuah gubuk pinggir laut bersama istri dan seorang anaknya. Anaknya masih kecil dan bernama Indra. Sehari-harinya, Pak Buyung bersama istrinya mengumpulkan hasil-hasil hutan dan menangkap ikan.",
         isi : `Di suatu kampung daerah Sumatra Barat, hiduplah keluarga Pak Buyung. Ia tinggal di sebuah gubuk pinggir laut bersama istri dan seorang anaknya. Anaknya masih kecil dan bernama Indra. Sehari-harinya, Pak Buyung bersama istrinya mengumpulkan hasil-hasil hutan dan menangkap ikan.
 
         Indra sering membantu kedua orang tuanya ke hutan maupun ke laut. Hal ini membuat bangga kedua orang tuanya. Namun, ada hal yang membuat mereka risau. Dalam sekali makan, Indra dapat menghabiskan setengah bakul nasi dengan lauk beberapa piring.
@@ -325,6 +339,8 @@ let data = [
     {
         judul : "Danau Toba",
         daerah : "Sumatra",
+        img : "https://i0.wp.com/riverspace.org/wp-content/uploads/2021/03/certita-rakyat-Indonesia.jpg?fit=800%2C457&ssl=1",
+        synopsis : "",
         isi :  `Pertemuan Toba dan Ikan Emas
         Dahulu kala, hiduplah seorang pemuda bernama Toba yang sudah lama tinggal sebatang kara. Untuk mencukupi kebutuhan sehari hari, Toba bekerja sebagai petani dan mencari ikan di sungai. Sisa hasil tangkapannya dijual untuk memenuhi kebutuhan hidupnya yang lain. keseharian inilah yang membuat laki laki tersebut tumbuh menjadi orang yang kuat dan mandiri.
         
@@ -361,6 +377,8 @@ let data = [
     {
         judul : "Batu Menangis",
         daerah : "Kalimantan",
+        img : "https://s3.theasianparent.com/cdn-cgi/image/height=250/tap-assets-prod/wp-content/uploads/sites/24/2021/11/Sekolaku-1-Copy.jpeg",
+        synopsis : "Alkisah di sebuah desa kecil di Kalimantan Barat, hiduplah seorang gadis cantik bersama dengan ibunya yang lembut dan bijaksana. Kecantikan si gadis tidak ada bandingannya. Matanya indah dan bersinar. Rambutnya hitam, panjang, dan berkilau bagai mutiara hitam. Kulitnya putih dan lembut bagaikan sutera. Parasnya cantik menawan. Semua orang mengakui dan mengagumi kecantikan si gadis.",
         isi : `
         Alkisah di sebuah desa kecil di Kalimantan Barat, hiduplah seorang gadis cantik bersama dengan ibunya yang lembut dan bijaksana. Kecantikan si gadis tidak ada bandingannya. Matanya indah dan bersinar. Rambutnya hitam, panjang, dan berkilau bagai mutiara hitam. Kulitnya putih dan lembut bagaikan sutera. Parasnya cantik menawan. Semua orang mengakui dan mengagumi kecantikan si gadis.
         
@@ -417,6 +435,8 @@ let data = [
     {
         judul : "Janji Raja Bijaksana",
         daerah : "Kalimantan",
+        img : "https://id-static.z-dn.net/files/d0a/4ef0787d2353fa9ccb0b108264f0aca4.jpg",
+        synopsis : "Dahulu, di suatu negeri antah berantah hiduplah seorang janda dengan anaknya yang masih kecil. Mereka hidup sangar sederhana di sebuah gubuk tua. Gubuk itu tidak jauh dari istana. Negeri itu dipimpin oleh seorang raja yang baik hati, arif, dan bijaksana. Raja tersebut sangat dekat dengan rakyatnya, dari yang tua sampai anak kecil.",
         isi : `Dahulu, di suatu negeri antah berantah hiduplah seorang janda dengan anaknya yang masih kecil. Mereka hidup sangar sederhana di sebuah gubuk tua. Gubuk itu tidak jauh dari istana. Negeri itu dipimpin oleh seorang raja yang baik hati, arif, dan bijaksana. Raja tersebut sangat dekat dengan rakyatnya, dari yang tua sampai anak kecil.
 
         Setiap sore, banyak anak kecil yang bermain di halaman istana. Begitu juga halnya dengan anak janda tersebut. Karena miskin, maka mainan anak itu pun hanya seekor nyamuk yang diikat dengan benang. Kemanapun anak itu pergi, nyamuk itu selalu dibawanya.
@@ -478,6 +498,8 @@ let data = [
     {
         judul : "Semangka Emas",
         daerah : "Kalimantan",
+        img : "https://id-static.z-dn.net/files/d0a/4ef0787d2353fa9ccb0b108264f0aca4.jpg",
+        synopsis : "Pada suatu ketika, di daerah Sambas ad kisah tentang seorang saudagr yang kaya raya. Kekayaannya meliputi tanah berupa ladang, rumah mewah, dan harta benda yang mahal harganya. Semua penduduk kampung hormat padanya.",
         isi : `Pada suatu ketika, di daerah Sambas ad kisah tentang seorang saudagr yang kaya raya. Kekayaannya meliputi tanah berupa ladang, rumah mewah, dan harta benda yang mahal harganya. Semua penduduk kampung hormat padanya.
 
         Saudagar kaya itu memiliki dua orang anak laki-laki. Si sulung bernama Muzakir, sedangkan si bungsu bernama Dermawan. Meskipun mereka lahir dari rahim ibu yang sama, namun sifat keduanya sangat jauh berbeda. Si sulung memiliki sifat serakah dan kikir, sedangkan si bungsu memiliki sifat baik hati dan suka menolong.
@@ -545,6 +567,8 @@ let data = [
     {
         judul : "Danau Lipan",
         daerah : "Kalimantan",
+        img : "https://img.inews.co.id/media/822/files/inews_new/2021/12/22/legenda_danau_lipan.jpg",
+        synopsis : "Kata danau dari nama Danau Lipan bukanlah arti danau sesungguhnya. Danau Lipan adalah sebuah tempat di daerah Kecamatan Muara Kaman yang terletak di hulu Tenggarong, Kabupaten Kutai Kertanegara, Kalimantan Timur. Danau Lipan ini berupa padang luas yang ditumbuhi semak dan perdu.",
         isi :`Kata danau dari nama Danau Lipan bukanlah arti danau sesungguhnya. Danau Lipan adalah sebuah tempat di daerah Kecamatan Muara Kaman yang terletak di hulu Tenggarong, Kabupaten Kutai Kertanegara, Kalimantan Timur. Danau Lipan ini berupa padang luas yang ditumbuhi semak dan perdu.
 
         Dahulu, daerah Muara Kaman merupakan lautan. Tepi lautnya terletak di Berubus. Ketika itu, terdapat sebuah kerajaan yang bandarnya (pelabuhannya) banyak disinggahi kapal-kapal dari berbagai penjuru. Tidak hanya bandarnya yang terkenal, tetapi putri cantik dari kerajaan tersebut juga terkenal ke segala penjuru. Putri tersebut bernama Putri Aji Berdarah Putih.
@@ -581,6 +605,8 @@ let data = [
     {
         judul : "Putri Duyung",
         daerah : "Sulawesi",
+        img : "https://i.ytimg.com/vi/XCcxFtiSrLo/maxresdefault.jpg",
+        synopsis : "Pada suatu ketika, di Sulawesi Tengah terdapat kisah tentang sebuah keluarga yang bahagia. Keluarga itu terdiri atas bapak, ibu, dan tiga anak yang masih kecil. Setiap pagi, sudah menjadi sebuah kebiasaan dalam keluarga tersebut untuk sarapan bersama-sama. Mereka berkumpul di meaja makan dan berbagi cerita. Selesai sarapan, sang ayah berangkat ke kebun untuk bekerja.",
         isi : `Pada suatu ketika, di Sulawesi Tengah terdapat kisah tentang sebuah keluarga yang bahagia. Keluarga itu terdiri atas bapak, ibu, dan tiga anak yang masih kecil. Setiap pagi, sudah menjadi sebuah kebiasaan dalam keluarga tersebut untuk sarapan bersama-sama. Mereka berkumpul di meaja makan dan berbagi cerita. Selesai sarapan, sang ayah berangkat ke kebun untuk bekerja.
         
         Suatu hari, setelah selesai sarapan, sang bapak berpesan, “Bu, tolong simpan sisa ikan ini! Aku akan memakannya nanti sepulang dari kebun.”
@@ -648,6 +674,8 @@ let data = [
     {
         judul : "Putri Tandampalik",
         daerah : "Sulawesi",
+        img: "https://dongengceritarakyat.com/wp-content/uploads/2022/07/cerita-rakyat-Putri-Tandampalik.jpg",
+        synopsis : "Dahulu dikisahkan, di Sulawesi Selatan berdiri sebuah kerajaan bernama Kerajaan Luwu yang dipimpin oleh seorang raja. Raja itu bernama La Busatana Datu Maongge dan sering dipanggil Raja atau Datu Luwu. Ia sangat arif, bijaksana, dan gagah berani. Karenanya, rakyat di negeri itu hidup makmur dan tidak pernah kekurangan bahan pangan. Keadaan negeri itu juga aman dan damai.",
         isi :  `Dahulu dikisahkan, di Sulawesi Selatan berdiri sebuah kerajaan bernama Kerajaan Luwu yang dipimpin oleh seorang raja. Raja itu bernama La Busatana Datu Maongge dan sering dipanggil Raja atau Datu Luwu. Ia sangat arif, bijaksana, dan gagah berani. Karenanya, rakyat di negeri itu hidup makmur dan tidak pernah kekurangan bahan pangan. Keadaan negeri itu juga aman dan damai.
         
         Daru Luwu memiliki seorang putri yang sangat cantik dan ramah. Putri Tandampalik, begitu ia biasa disapa. Kecantikan dan budi pekertinya yang baik membuat ia dikenal hingga ke pelosok negeri. Kabar inipun terdengar sampai ke telinga Raja Bone.
@@ -713,6 +741,8 @@ let data = [
     {
         judul : "Kera dan Ayam",
         daerah : "Sulawesi",
+        img: "https://www.poskata.com/wp-content/uploads/2021/01/000240-00_cerita-rakyat-kera-dan-ayam_dongeng-kita_800x450_ccpdm-min.jpg",
+        synopsis : "Dahulu, dikisahkan tentang persahabatan yang terjalin antara kera dan ayam. Mereksa selalu tampak rukun dan damai. Tapi, kenyataanya tidaklah demikian. Setelah sekian lama bersahabat, berulah terlihat sifat busuk si kera.",
         isi : `Dahulu, dikisahkan tentang persahabatan yang terjalin antara kera dan ayam. Mereksa selalu tampak rukun dan damai. Tapi, kenyataanya tidaklah demikian. Setelah sekian lama bersahabat, berulah terlihat sifat busuk si kera.
         "Hai Ayam. sahabatku," panggil kera. " Maukah kau pergi bersamaku? Sore-sore begini enaknya kita jalan-jalan," ajak si kera.
         "Wah ide yang bagus. Memang kau mau mengajakku ke mana?" tanya ayam.
@@ -737,6 +767,8 @@ let data = [
     {
         judul : "Sigar Laki Dan Limbat",
         daerah : "Sulawesi",
+        img: "https://i.ytimg.com/vi/hcoH1IhtPsc/maxresdefault.jpg",
+        synopsis : 'Ini adalah sebuah kisah dari daerah Tondano. Dahulu dikisahkan tentang seorang pemburu yang andal bernama Sigarlaki. Tidak ada seekor hewan buruan pun yang bisa lepas dari lemparan tombak yang selalu dibawanya setiap hari.',
         isi : `Ini adalah sebuah kisah dari daerah Tondano. Dahulu dikisahkan tentang seorang pemburu yang andal bernama Sigarlaki. Tidak ada seekor hewan buruan pun yang bisa lepas dari lemparan tombak yang selalu dibawanya setiap hari.
         
         Sigarlaki memiliki seorang pelayan yang sangat setia. Limbat, begitulah namanya. Limbat selalu mendampingi Sigarlaki berburu. Setiap pekerjaan yang diperintahkan oleh Sigarlaki selalu diselesaikan dengan baik.
@@ -779,7 +811,7 @@ let data = [
     },
     {
         judul: "Wewe Gombel",
-        daerah: "semarang",
+        daerah: "Jawa",
         isi: `Wewe gombel adalah cerita hantu Indonesia tertua yang masih ada sampai saat ini. Hantu ini oleh masyarakat dipercaya sebagai wanita yan bunuh diri setelah sebelumnya membunuh suaminya.
     
         Wanita itu tidak bisa memberikan keturunan sehingga suaminya selingkuh dengan wanita lain yang membuatnya tidak berpikir panjang untuk membunuhnya. Ia dipercaya berasal dari daerah Gombel (Semarang) yang dulunya dijadikan sebagai tempat pembunuhan pada masa penjajahan.
@@ -790,7 +822,7 @@ let data = [
     },
     {
         judul: "Si Manis Jembatan Ancol",
-        daerah: "DKI Jakarta",
+        daerah: "Jawa",
         isi: `Bagi kamu yang besar di tahun 1990-an, tidak asing mendengar cerita sesosok wanita muda yang ditemukan tewas di kawasan Ancol. Legenda masyarakat Jakarta itu bahkan beberapa kali diangkat menjadi film beberapa waktu lalu dan dibuatkan beberapa serial yang tayang di televisi.
     
         Ada dua versi cerita yang berkembang mengenai kemunculan Si Manis Jembatan Ancol. Versi pertama menceritakan gadis bernama Maryam yang tinggal bersama ibunya di rumah seorang saudagar kaya.
@@ -809,7 +841,7 @@ let data = [
     },
     {
         judul: "Rumah Kapal",
-        daerah: "bandar Lampung",
+        daerah: "Sumatra",
         isi: `Salah satu cerita horor yang berasal dari Bandar Lampung, tepatnya di Teluk Betung Utara ini mengkisahkan sebuah rumal yang menyeramkan.
     
         Memiliki bentuk yang tidak terlalu besar, rumah kapal ini menyimpan aura mistis. Konon, rumah ini benar adanya dan masyarakat percaya bahwa rumah ini merupakan tumah hantu.
@@ -832,19 +864,8 @@ let data = [
         Jika ditawari sesuatu, maka harus ditolak dan mengambil sesuatu yang ada disekitar seperti batu. Setelah itu pendaki juga harus melemparkan uang ke arah sumber suara, jika tidak maka ia akan ditimpa kesialan selama berada di Gunung Lawu. Beberapa pendaki yang melanggar pantangan ini dikabarkan tersesat sampai hilang diculik ke dimensi lain.'`
     },
     {
-        judul: "Nyi Roro Kidul",
-        daerah: "Jawa",
-        isi: `Nyi Roro Kidul menjadi cerita horor Indonesia yang melegenda bagi masyarakat Jawa khususnya yang tinggal di daerah pesisir pantai selatan. Banyak versi yang menyebutkan asal usulnya, salah satunya menyebutkan bahwa ia merupakan putri Prabu Siliwangi dari kerajaan Pajajaran bernama Putri Kandita.
-    
-        Kehadiran Putri Kandhita tidak disukai oleh selir dan saudara-saudaranya hingga ia dikutuk oleh seorang penyihir dengan penyakit kusta. Prabu Siliwangi dihasut oleh selir dan anak-anaknya untuk mengusirnya dari kerajaan. Mendengar hal tersebut, Putri Kandita melarikan diri dari kerajaan dan mendapat bisikan ghaib untuk menceburkan dirinya ke laut Jawa bagian selatan.
-        
-        Setelah itu Putri Kandita sembuh dari kutukan tersebut dan memutuskan untuk tinggal di laut selatan bersama pasukannya hingga kini. Cerita yang menyeramkan dan melegenda adalah larangan memakai baju hijau ketika berkunjung ke pantai selatan.
-        
-        Bagi siapapun yang memakai pakaian hijau di sepanjang pantai selatan, ia akan tertimpa kesialan yaitu diculik oleh penguasa pantai kidul. Pertama ia akan dijadikan pasukan kerajaan dan kedua, ia akan dijadikan sebagai pelayan istana Nyi Roro Kidul. Terlepas dari benar tidaknya cerita tersebut, sejumlah masyarakat pesisir laut selatan mempercayai mitos tersebut hingga kini.`
-    },
-    {
         judul: "Mbak Yayuk Kampus UGM",
-        daerah:"Yogyakarta",
+        daerah:"Jawa",
         isi:`RSelain sekolah, kampus universitas juga seringkali menyimpan banyak cerita horor di dalamnya. Salah satu yang cukup populer adalah cerita Mbak Yayuk yang ada di Universitas Gadjah Mada. Di universitas tersebut terdapat urban legend yang bernama Mbak Yayuk.
     
         Hantu yang satu ini sudah dikenal oleh semua mahasiswa UGM. Sosoknya seringkali terlihat pada malam hari. Anehnya, Mbak Yayuk selalu terlihat oleh siapapun, baik itu CCTV maupun mahasiswa yang masih berada di kampus saat malam hari.
@@ -864,7 +885,7 @@ let data = [
     },
     {
         judul:"Hantu Boneka Uci",
-        daerah: "Bandung",
+        daerah: "Jawa",
         isi:`Cerita ini bermula dari sebuah tragedi kecelakaan yang merenggut nyawa seorang gadis kecil bernama Uci. Ia meninggal karena kecelakaan lalu lintas pada 1980 oleh seorang pengendara yang sembrono.
     
         Sebelum menghembuskan nafas terakhirnya, Uci berkata "Boneka Uci mana?".
@@ -875,7 +896,7 @@ let data = [
     },
     {
         judul: "Hantu Bus Medan",
-        daerah: "Medan",
+        daerah: "Sumatra",
         isi: `Bus Loreng terkenal karena kecepatan supir-supirnya dalam menaklukkan jalan ekstrim di Sumatera.
     
         Banyak warga Medan selalu memanfaatkan jasa Bus Loreng untuk menempuh perjalanan darat lantaran skill supir yang mumpuni dan juga kecepatan tinggi yang ditawarkannya.
