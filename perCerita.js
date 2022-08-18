@@ -777,9 +777,6 @@ let data = [
         Pesan moral:
         Sebuah tuduhan harus disertai bukti yang kuat. Sebab, tuduhan tanpa bukti sama halnya dengan menyebar fitnah terhadap orang lain. Perilaku jahat akan mendapat balasan yang buruk akibat kelakuannya. Sedangkan yang berbuat baik dan jujur pada akhirnya akan hidup berbahagia.`,
     },
-]
-
-let data2 = [
     {
         judul: "Wewe Gombel",
         daerah: "semarang",
@@ -886,5 +883,5 @@ let data2 = [
         Namun nahas sekitaran tahun 2005, ada Bus Loreng yang menabrak pembatas pinggir jalan hingga jatuh ke jurang. Anehnya, hingga sekarang bangkai bus dan juga korban kecelakaan tersebut tidak pernah ditemui, seperti hilang begitu saja.
         
         Beberapa saat setelah kejadian kecelakaan tersebut, banyak masyarakat yang melihat Bus Loreng sering gentayangan, tetap dengan kecepatan tinggi bahkan warga yang beruntung dapat menangkap gambar bus hantu dengan kamera.`
-    },
-    ]
+    }
+]
