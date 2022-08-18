@@ -778,3 +778,113 @@ let data = [
         Sebuah tuduhan harus disertai bukti yang kuat. Sebab, tuduhan tanpa bukti sama halnya dengan menyebar fitnah terhadap orang lain. Perilaku jahat akan mendapat balasan yang buruk akibat kelakuannya. Sedangkan yang berbuat baik dan jujur pada akhirnya akan hidup berbahagia.`,
     },
 ]
+
+let data2 = [
+    {
+        judul: "Wewe Gombel",
+        daerah: "semarang",
+        isi: `Wewe gombel adalah cerita hantu Indonesia tertua yang masih ada sampai saat ini. Hantu ini oleh masyarakat dipercaya sebagai wanita yan bunuh diri setelah sebelumnya membunuh suaminya.
+    
+        Wanita itu tidak bisa memberikan keturunan sehingga suaminya selingkuh dengan wanita lain yang membuatnya tidak berpikir panjang untuk membunuhnya. Ia dipercaya berasal dari daerah Gombel (Semarang) yang dulunya dijadikan sebagai tempat pembunuhan pada masa penjajahan.
+        
+        Waktu kedatangan wewe gombel biasanya menjelang maghrib dimana ia akan menculik anak-anak yang berada di luar rumah. Anak-anak tersebut akan dibawa ke alam lain karena dianggap tidak mempunyai rumah.
+        
+        Dari mitos tersebut, orang tua suka melarang anaknya untuk bepergian keluar rumah ketika waktu maghrib karena bisa diculik oleh wewe gombel. Namun, dibalik itu mitos tersebut tersimpan pesan kepada orang tua agar selalu mengawasi dan memperhatikan anak-anaknya untuk tidak bepergian ke tempat yang berbahaya.`
+    },
+    {
+        judul: "Si Manis Jembatan Ancol",
+        daerah: "DKI Jakarta",
+        isi: `Bagi kamu yang besar di tahun 1990-an, tidak asing mendengar cerita sesosok wanita muda yang ditemukan tewas di kawasan Ancol. Legenda masyarakat Jakarta itu bahkan beberapa kali diangkat menjadi film beberapa waktu lalu dan dibuatkan beberapa serial yang tayang di televisi.
+    
+        Ada dua versi cerita yang berkembang mengenai kemunculan Si Manis Jembatan Ancol. Versi pertama menceritakan gadis bernama Maryam yang tinggal bersama ibunya di rumah seorang saudagar kaya.
+        
+        Saudagar tersebut jatah cinta dengan kecantikan dan kemanisannya, namun Maryam menolak dan melarikan diri. Pelarian Maryam sia-sia, karena ia bertemu dengan kawanan preman yang memperkosa dan membunuhnya, lalu jasadnya dibuang di dekat area Ancol.
+        
+        Versi kedua menceritakan seorang gadis bernama Ariah, yang tidak jauh berbeda nasibnya dengan Maryam yang akan dinikahi oleh seorang juragan kaya bernama Oey Tambahsia. Ariah melarikan diri, namun ia berhasil ditangkap oleh para preman tangan kanan Oey Tambahsia.
+        
+        Meski sempat melakukan perlawanan, namun ia tidak sanggup melawan karena tenaganya tidak sebanding. Akhirnya Ariah tewas di tangan para preman tersebut dan jasadnya dibuang di dekat persawahan dekat dengan Ancol.
+        
+        Hingga kini sejumlah orang mengaku pernah melihat sosok Maryam atau Ariah menampakkan diri di atas Jembatan Ancol. Ia digambarkan sebagai sosok berambut panjang dan kehadirannya dipercaya berkaitan dengan terjadinya sejumlah kecelakaan di daerah tersebut.
+        
+        Cerita menyeramkan terkait kehadiran sosok Maryam pernah dialami oleh Mbah Broto, seorang pelukis di daerah Ancol. Ia mengaku didatangi sosok Maryam yang minta dilukis, namun belum selesai ia melukis sosok tersebut hilang.
+        
+        Mbah Broto sempat mengejar dan menemukannya, tetapi yang dia lihat justru tubuh wanita itu seperti terbang melayang dari kejauhan.`
+    },
+    {
+        judul: "Rumah Kapal",
+        daerah: "bandar Lampung",
+        isi: `Salah satu cerita horor yang berasal dari Bandar Lampung, tepatnya di Teluk Betung Utara ini mengkisahkan sebuah rumal yang menyeramkan.
+    
+        Memiliki bentuk yang tidak terlalu besar, rumah kapal ini menyimpan aura mistis. Konon, rumah ini benar adanya dan masyarakat percaya bahwa rumah ini merupakan tumah hantu.
+        
+        Salah satu cerita yang populer dan masih beredar adalah dalam rumah kapal tersebut ada sosok jin yang sering terlihat di dalam rumah kapal.
+        
+        Warga sekitar pernah melihat bahwa di sana terdapat sosok yang menyerupai kelelawar, bukan hanya itu saja tapi ada pula sosok jin yang berbentuk naga sebagai penunggu rumah kapal tersebut.
+        
+        Masyarakat sekitar sering berspekulasi bahwa adanya kecelakaan yang sering terjadi di dekat rumah kapal tersebut ada kaitannya dengan dengan adanya hunian horor itu.`
+    },
+    {
+        judul: "Pasar Hantu di Gunung Lawu",
+        daerah: "Jawa",
+        isi: `Mendaki gunung adalah kegiatan yang menyenangkan, namun apa jadinya jika hal tersebut menjadi cerita yang menyeramkan. Gunung Lawu adalah gunung yang berada di daerah perbatasan antara Karanganyar (Jawa Tengah) dengan Magetan (Jawa Timur) yang banyak dijadikan sebagai objek pendakian.
+    
+        Namun, Gunung Lawu bukan gunung yang biasa sebab banyak pendaki yang menemui kejadian mistis disana. Sejumlah kejadian mistis banyak ditemui seperti kehadiran pasar di daerah lereng gunung. Cukup aneh karena jarang ada pasar di daerah pegunungan.
+        
+        Namun pasar yang dimaksud adalah pasar hantu, yang terletak di pos 5 pendakian melalui Candi Cetho. Masyarakat setempat mempercayai jika ada yang melewati pasar hantu tersebut dan mendengar suara pedagang menanyai “mau beli apa?”, pendaki harus menjawab pertanyaan tersebut.
+        
+        Jika ditawari sesuatu, maka harus ditolak dan mengambil sesuatu yang ada disekitar seperti batu. Setelah itu pendaki juga harus melemparkan uang ke arah sumber suara, jika tidak maka ia akan ditimpa kesialan selama berada di Gunung Lawu. Beberapa pendaki yang melanggar pantangan ini dikabarkan tersesat sampai hilang diculik ke dimensi lain.'`
+    },
+    {
+        judul: "Nyi Roro Kidul",
+        daerah: "Jawa",
+        isi: `Nyi Roro Kidul menjadi cerita horor Indonesia yang melegenda bagi masyarakat Jawa khususnya yang tinggal di daerah pesisir pantai selatan. Banyak versi yang menyebutkan asal usulnya, salah satunya menyebutkan bahwa ia merupakan putri Prabu Siliwangi dari kerajaan Pajajaran bernama Putri Kandita.
+    
+        Kehadiran Putri Kandhita tidak disukai oleh selir dan saudara-saudaranya hingga ia dikutuk oleh seorang penyihir dengan penyakit kusta. Prabu Siliwangi dihasut oleh selir dan anak-anaknya untuk mengusirnya dari kerajaan. Mendengar hal tersebut, Putri Kandita melarikan diri dari kerajaan dan mendapat bisikan ghaib untuk menceburkan dirinya ke laut Jawa bagian selatan.
+        
+        Setelah itu Putri Kandita sembuh dari kutukan tersebut dan memutuskan untuk tinggal di laut selatan bersama pasukannya hingga kini. Cerita yang menyeramkan dan melegenda adalah larangan memakai baju hijau ketika berkunjung ke pantai selatan.
+        
+        Bagi siapapun yang memakai pakaian hijau di sepanjang pantai selatan, ia akan tertimpa kesialan yaitu diculik oleh penguasa pantai kidul. Pertama ia akan dijadikan pasukan kerajaan dan kedua, ia akan dijadikan sebagai pelayan istana Nyi Roro Kidul. Terlepas dari benar tidaknya cerita tersebut, sejumlah masyarakat pesisir laut selatan mempercayai mitos tersebut hingga kini.`
+    },
+    {
+        judul: "Mbak Yayuk Kampus UGM",
+        daerah:"Yogyakarta",
+        isi:`RSelain sekolah, kampus universitas juga seringkali menyimpan banyak cerita horor di dalamnya. Salah satu yang cukup populer adalah cerita Mbak Yayuk yang ada di Universitas Gadjah Mada. Di universitas tersebut terdapat urban legend yang bernama Mbak Yayuk.
+    
+        Hantu yang satu ini sudah dikenal oleh semua mahasiswa UGM. Sosoknya seringkali terlihat pada malam hari. Anehnya, Mbak Yayuk selalu terlihat oleh siapapun, baik itu CCTV maupun mahasiswa yang masih berada di kampus saat malam hari.
+        
+        Namun, sebenarnya sosok dari hantu ini tidak terlalu menyeramkan. Sebab, Ia memiliki penampilan yang biasa saja seperti mahasiswa pada umumnya. Akan tetapi yang membuatnya terlihat menyeramkan adalah tatapan matanya yang kosong dan juga wajahnya yang selalu terlihat pucat.
+        
+        Menurut beberapa sumber, Mbak Yayuk adalah seorang mahasiswa UGM yang mengakhiri hidupnya dengan cara bunuh diri karena judul skripsinya ditolak oleh dosen.`
+    },
+    {
+        judul:"Kuyang",
+        daerah:"Kalimantan",
+        isi:`Cerita Horor Indonesia ini datang dari Pulau Kalimantan bernama Kuyang. Sosoknya seperti manusia ketika siang hari dan berbaur dengan masyarakat, namun ketika malam hari ia menjelma menjadi hantu yang menyeramkan.
+    
+        Ia mampu melepaskan kepala dari tubuhnya. Tidak hanya itu, kepala tersebut bisa terbang bersama dengan anggota organ dalam seperti jantung, hati, dan usus. Ketika terbang, muncul cahaya berwarna merah menyerupai api yang mengikutinya dari belakang.
+        
+        Ia memiliki dua taring di sebelah kanan dan kiri mulutnya. Kuyang dipercaya sebagai hantu yang suka meminum darah dari seorang ibu yang hamil atau baru melahirkan, serta darah dari bayi yang baru lahir. Agar korbannya tidak curiga, Kuyang biasanya mampu merubah dirinya menjadi seekor kucing atau menjadi burung.`
+    },
+    {
+        judul:"Hantu Boneka Uci",
+        daerah: "Bandung",
+        isi:`Cerita ini bermula dari sebuah tragedi kecelakaan yang merenggut nyawa seorang gadis kecil bernama Uci. Ia meninggal karena kecelakaan lalu lintas pada 1980 oleh seorang pengendara yang sembrono.
+    
+        Sebelum menghembuskan nafas terakhirnya, Uci berkata "Boneka Uci mana?".
+        
+        Setelah kejadian itu, tidak sedikit pengendara yang mengaku telah melihat hantu si kecil Uci bergentayangan di sekitar jalan Siliwangi sambil membawa boneka panda kesayangannya.
+        
+        Ia juga kerap terlihat sedang duduk di atas pohon di sekitaran jalan Siliwangi dengan gerak-gerik layaknya gadis kecil biasa yang sedang bermain dengan boneka. Menurut orang-orang sekitar, keberadaan hantu Uci ini tidak mengganggu.`
+    },
+    {
+        judul: "Hantu Bus Medan",
+        daerah: "Medan",
+        isi: `Bus Loreng terkenal karena kecepatan supir-supirnya dalam menaklukkan jalan ekstrim di Sumatera.
+    
+        Banyak warga Medan selalu memanfaatkan jasa Bus Loreng untuk menempuh perjalanan darat lantaran skill supir yang mumpuni dan juga kecepatan tinggi yang ditawarkannya.
+        
+        Namun nahas sekitaran tahun 2005, ada Bus Loreng yang menabrak pembatas pinggir jalan hingga jatuh ke jurang. Anehnya, hingga sekarang bangkai bus dan juga korban kecelakaan tersebut tidak pernah ditemui, seperti hilang begitu saja.
+        
+        Beberapa saat setelah kejadian kecelakaan tersebut, banyak masyarakat yang melihat Bus Loreng sering gentayangan, tetap dengan kecepatan tinggi bahkan warga yang beruntung dapat menangkap gambar bus hantu dengan kamera.`
+    },
+    ]
