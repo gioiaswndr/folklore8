@@ -982,18 +982,18 @@ showFavourites();
 // namaUser.innerText = getCetakNama
 
 function addFavourites(judul) {
-  let favourites = localStorage.getItem("fav") ? JSON.parse(localStorage.getItem("fav")) : []
-  if (favourites.indexOf(judul) >= 0) {
+  let favouritesLocalStorage = localStorage.getItem("fav") ? JSON.parse(localStorage.getItem("fav")) : []
+  console.log(favouritesLocalStorage)
+  if (favouritesLocalStorage.indexOf(judul) >= 0) {
     swal("Oops...!", "udah ada!", "warning");
   } else {
-    favourites.push(judul);
-    showFavourites();
+    favouritesLocalStorage.push(judul);
     // favourites = favourites.filter(function(item, pos) {
     //   return favourites.indexOf(item) == pos;
     // })
-    localStorage.setItem("fav", JSON.stringify(favourites))
+    localStorage.setItem("fav", JSON.stringify(favouritesLocalStorage))
+    showFavourites();
     swal("Berhasil!", "menambahkan favorit!", "success");
-
   }
 }
 
