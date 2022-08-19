@@ -93,7 +93,7 @@ let data = [
     {
         judul : "Lutung Kasarung",
         daerah : "Jawa",
-        img : "https://i0.wp.com/2.bp.blogspot.com/-FfbGzNVbjnE/W9xpZ1H9OiI/AAAAAAAAALI/Z1FPYIoIEjIdZPZcnXNRDK8-HhEzwTWtwCLcBGAs/s1600/narative%2Bprambanan.jpg?ssl=1",
+        img : "https://mitrapalupi.com/wp-content/uploads/2021/06/PicsArt_07-08-07.42.31.jpg",
         synopsis : "Pada zaman dahulu di Pasundan, berdiri sebuah kerajaan. Kerajaan itu dipimpin oleh seorang raja bernama Prabu Tapak Agung.Prabu Tapak Agung terkenal sebagai raja yang bijaksana dan baik hati,Prabu Tapak Agung hidup bersama dua putrinya, yaitu Purbararang dan Purbasari. Usia Prabu Tapak Agung sudah tua. Prabu Tapak Agung berfirasat umurnya tak akan lama lagi. Ia pun segera mengumpulkan kedua purrinya.",
         isi : `Prabu Tapak Agung Raja Pasundan
         Pada zaman dahulu di Pasundan, berdiri sebuah kerajaan. Kerajaan itu dipimpin oleh seorang raja bernama Prabu Tapak Agung.
@@ -493,7 +493,7 @@ let data = [
     {
         judul : "Semangka Emas",
         daerah : "Kalimantan",
-        img : "https://id-static.z-dn.net/files/d0a/4ef0787d2353fa9ccb0b108264f0aca4.jpg",
+        img : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdongeng.kamikamu.co.id%2Fwp-content%2Fuploads%2Fsites%2F40%2F2020%2F08%2FLegenda-Semangka-Emas.jpg&f=1&nofb=1",
         synopsis : "Pada suatu ketika, di daerah Sambas ad kisah tentang seorang saudagr yang kaya raya. Kekayaannya meliputi tanah berupa ladang, rumah mewah, dan harta benda yang mahal harganya. Semua penduduk kampung hormat padanya.",
         isi : `Pada suatu ketika, di daerah Sambas ad kisah tentang seorang saudagr yang kaya raya. Kekayaannya meliputi tanah berupa ladang, rumah mewah, dan harta benda yang mahal harganya. Semua penduduk kampung hormat padanya.
         Saudagar kaya itu memiliki dua orang anak laki-laki. Si sulung bernama Muzakir, sedangkan si bungsu bernama Dermawan. Meskipun mereka lahir dari rahim ibu yang sama, namun sifat keduanya sangat jauh berbeda. Si sulung memiliki sifat serakah dan kikir, sedangkan si bungsu memiliki sifat baik hati dan suka menolong.
@@ -806,6 +806,8 @@ let data = [
         judul: "Wewe Gombel",
         daerah: "Jawa",
         img: "https://assets.promediateknologi.com/crop/0x0:0x0/750x500/photo/2021/12/30/448799474.jpg",
+        synopsis : `Wewe gombel adalah cerita hantu Indonesia tertua yang masih ada sampai saat ini. Hantu ini oleh masyarakat dipercaya sebagai wanita yan bunuh diri setelah sebelumnya membunuh suaminya.
+        `,
         isi: `Wewe gombel adalah cerita hantu Indonesia tertua yang masih ada sampai saat ini. Hantu ini oleh masyarakat dipercaya sebagai wanita yan bunuh diri setelah sebelumnya membunuh suaminya.
     
         Wanita itu tidak bisa memberikan keturunan sehingga suaminya selingkuh dengan wanita lain yang membuatnya tidak berpikir panjang untuk membunuhnya. Ia dipercaya berasal dari daerah Gombel (Semarang) yang dulunya dijadikan sebagai tempat pembunuhan pada masa penjajahan.
@@ -817,6 +819,9 @@ let data = [
     {
         judul: "Si Manis Jembatan Ancol",
         daerah: "Jawa",
+        img : `https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-vTTMeYn-Q0Q%2FXvLvWZiW36I%2FAAAAAAAAAmo%2FCGPg4-wzJV8y4oJYQ_9RepgZqPz07F92ACLcBGAsYHQ%2Fw1200-h630-p-k-no-nu%2Fimages%252B%2525281%252529.jpeg&f=1&nofb=1`,
+        synopsis : `Bagi kamu yang besar di tahun 1990-an, tidak asing mendengar cerita sesosok wanita muda yang ditemukan tewas di kawasan Ancol. Legenda masyarakat Jakarta itu bahkan beberapa kali diangkat menjadi film beberapa waktu lalu dan dibuatkan beberapa serial yang tayang di televisi.
+        `,
         isi: `Bagi kamu yang besar di tahun 1990-an, tidak asing mendengar cerita sesosok wanita muda yang ditemukan tewas di kawasan Ancol. Legenda masyarakat Jakarta itu bahkan beberapa kali diangkat menjadi film beberapa waktu lalu dan dibuatkan beberapa serial yang tayang di televisi.
     
         Ada dua versi cerita yang berkembang mengenai kemunculan Si Manis Jembatan Ancol. Versi pertama menceritakan gadis bernama Maryam yang tinggal bersama ibunya di rumah seorang saudagar kaya.
@@ -836,7 +841,8 @@ let data = [
     {
         judul: "Rumah Kapal",
         daerah: "Sumatra",
-        img: "",
+        img: "https://awsimages.detik.net.id/customthumb/2015/02/26/1519/135056_rk1.jpg?w=780&q=90",
+        synopsis : "Salah satu cerita horor yang berasal dari Bandar Lampung, tepatnya di Teluk Betung Utara ini mengkisahkan sebuah rumal yang menyeramkan.",
         isi: `Salah satu cerita horor yang berasal dari Bandar Lampung, tepatnya di Teluk Betung Utara ini mengkisahkan sebuah rumal yang menyeramkan.
     
         Memiliki bentuk yang tidak terlalu besar, rumah kapal ini menyimpan aura mistis. Konon, rumah ini benar adanya dan masyarakat percaya bahwa rumah ini merupakan tumah hantu.
@@ -850,6 +856,8 @@ let data = [
     {
         judul: "Pasar Hantu di Gunung Lawu",
         daerah: "Jawa",
+        img : "https://channel-e.id/wp-content/uploads/2022/02/gunung-mistis-2.jpg",
+        synopsis : "Mendaki gunung adalah kegiatan yang menyenangkan, namun apa jadinya jika hal tersebut menjadi cerita yang menyeramkan.",
         isi: `Mendaki gunung adalah kegiatan yang menyenangkan, namun apa jadinya jika hal tersebut menjadi cerita yang menyeramkan. Gunung Lawu adalah gunung yang berada di daerah perbatasan antara Karanganyar (Jawa Tengah) dengan Magetan (Jawa Timur) yang banyak dijadikan sebagai objek pendakian.
     
         Namun, Gunung Lawu bukan gunung yang biasa sebab banyak pendaki yang menemui kejadian mistis disana. Sejumlah kejadian mistis banyak ditemui seperti kehadiran pasar di daerah lereng gunung. Cukup aneh karena jarang ada pasar di daerah pegunungan.
@@ -861,6 +869,8 @@ let data = [
     {
         judul: "Mbak Yayuk Kampus UGM",
         daerah:"Jawa",
+        img : `https://img2.djawanews.com/sfDeiVIRH2jxVKJ_B6XbRHGB1DhK7zBudzZrAM_FVpQ/rs:fill:602:345:1/g:no/aHR0cHM6Ly9kamF3YW5ld3MuY29tL3Bob3Rvcy9zZXJiYS1zZXJiaS9lYzc1MjZkNmMyYTRlN2E0Zjk0MTRlY2I3YjdiNGNmYzNjZTg2YjNlLmpwZw.jpg`,
+        synopsis : `RSelain sekolah, kampus universitas juga seringkali menyimpan banyak cerita horor di dalamnya.`,
         isi:`RSelain sekolah, kampus universitas juga seringkali menyimpan banyak cerita horor di dalamnya. Salah satu yang cukup populer adalah cerita Mbak Yayuk yang ada di Universitas Gadjah Mada. Di universitas tersebut terdapat urban legend yang bernama Mbak Yayuk.
     
         Hantu yang satu ini sudah dikenal oleh semua mahasiswa UGM. Sosoknya seringkali terlihat pada malam hari. Anehnya, Mbak Yayuk selalu terlihat oleh siapapun, baik itu CCTV maupun mahasiswa yang masih berada di kampus saat malam hari.
@@ -872,6 +882,8 @@ let data = [
     {
         judul:"Kuyang",
         daerah:"Kalimantan",
+        img : "https://pic-bstarstatic.akamaized.net/ugc/3798444618753d1573748d4cd0d721fa35c004f7.jpg",
+        synopsis : "Cerita Horor Indonesia ini datang dari Pulau Kalimantan bernama Kuyang.",
         isi:`Cerita Horor Indonesia ini datang dari Pulau Kalimantan bernama Kuyang. Sosoknya seperti manusia ketika siang hari dan berbaur dengan masyarakat, namun ketika malam hari ia menjelma menjadi hantu yang menyeramkan.
     
         Ia mampu melepaskan kepala dari tubuhnya. Tidak hanya itu, kepala tersebut bisa terbang bersama dengan anggota organ dalam seperti jantung, hati, dan usus. Ketika terbang, muncul cahaya berwarna merah menyerupai api yang mengikutinya dari belakang.
@@ -881,6 +893,8 @@ let data = [
     {
         judul:"Hantu Boneka Uci",
         daerah: "Jawa",
+        img : "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,f_jpg,w_480/pulauboneka3_bng4yd.jpg",
+        synopsis : `Cerita ini bermula dari sebuah tragedi kecelakaan yang merenggut nyawa seorang gadis kecil bernama Uci. Ia meninggal karena`,
         isi:`Cerita ini bermula dari sebuah tragedi kecelakaan yang merenggut nyawa seorang gadis kecil bernama Uci. Ia meninggal karena kecelakaan lalu lintas pada 1980 oleh seorang pengendara yang sembrono.
     
         Sebelum menghembuskan nafas terakhirnya, Uci berkata "Boneka Uci mana?".
@@ -889,8 +903,74 @@ let data = [
         
         Ia juga kerap terlihat sedang duduk di atas pohon di sekitaran jalan Siliwangi dengan gerak-gerik layaknya gadis kecil biasa yang sedang bermain dengan boneka. Menurut orang-orang sekitar, keberadaan hantu Uci ini tidak mengganggu.`
     },
+    {
+      judul: "Hantu Bus Medan",
+      daerah: "Medan",
+      img: "https://correcto.id/content/images/th1_2020061610554694053.jpg",
+      synopsis : `Bus Loreng terkenal karena kecepatan supir-supirnya dalam menaklukkan jalan ekstrim di Sumatera.`,
+      isi: `Bus Loreng terkenal karena kecepatan supir-supirnya dalam menaklukkan jalan ekstrim di Sumatera.
+  
+      Banyak warga Medan selalu memanfaatkan jasa Bus Loreng untuk menempuh perjalanan darat lantaran skill supir yang mumpuni dan juga kecepatan tinggi yang ditawarkannya.
+      
+      Namun nahas sekitaran tahun 2005, ada Bus Loreng yang menabrak pembatas pinggir jalan hingga jatuh ke jurang. Anehnya, hingga sekarang bangkai bus dan juga korban kecelakaan tersebut tidak pernah ditemui, seperti hilang begitu saja.
+      
+      Beberapa saat setelah kejadian kecelakaan tersebut, banyak masyarakat yang melihat Bus Loreng sering gentayangan, tetap dengan kecepatan tinggi bahkan warga yang beruntung dapat menangkap gambar bus hantu dengan kamera.`
+  }
 ]
 
+data = data.map((prev, _id) => ({...prev, _id}))
+
+let favourites = [];
+// for () {
+//   push(data[i].judul)
+// }
+
+function removeFavourites(index) {
+  swal({
+  title: "Apakah anda yakin?",
+  text: "Menghapus judul dari favorit!",
+  icon: "warning",
+  buttons: true,
+  dangerMode: true,
+})
+.then((willDelete) => {
+  if (willDelete) {
+    swal("Favorit berhasil dihapus!", {
+      icon: "success",
+    });
+    let favourites = JSON.parse(localStorage.getItem("fav"))
+    let favouritesNew = []
+    for (let i = 0; i < favourites.length; i++) {
+      if (i !== index) {
+        favouritesNew.push(favourites[i]);
+      }
+    }
+    favourites = []
+    for (let i = 0; i < favouritesNew.length; i++) {
+      favourites.push(favouritesNew[i]);
+    }
+    localStorage.setItem("fav", JSON.stringify(favourites))
+    showFavourites()
+
+  }
+});
+}
+function showFavourites() {
+  document.getElementById("modal-favourite-body").innerHTML = ""
+  let favourites = JSON.parse(localStorage.getItem("fav"))
+  for (let i = 0; i < favourites.length; i++) {
+    // document.getElementById("modal-favourite-body").innerHTML += `<h2>${favourites[i]}<button onclick="removeFavourites(${i})" style="margin-left: 100px">🗑</button></h2>`
+    // console.log(favourites[i])
+    let [judul, _id] = favourites[i].split(" - ")
+    document.getElementById("modal-favourite-body").innerHTML += `
+      <div class="d-flex w-100 justify-content-between align-items-center mb-2">
+        <a href="detail-cerita.html?id=${_id}" id="${i}" role="button">${judul}</a>
+        <i class="fas fa-trash text-lg ms-1" aria-hidden="true" onclick="removeFavourites(${i})" role="button"></i>
+      </div>
+    `
+  }
+}
+showFavourites();
 
 // function cetakNama () {
 //   var nama = prompt("masukan nama terlebih dahulu yach:")
@@ -901,7 +981,21 @@ let data = [
 // let getCetakNama = cetakNama()
 // namaUser.innerText = getCetakNama
 
+function addFavourites(judul) {
+  let favourites = localStorage.getItem("fav") ? JSON.parse(localStorage.getItem("fav")) : []
+  if (favourites.indexOf(judul) >= 0) {
+    swal("Oops...!", "udah ada!", "warning");
+  } else {
+    favourites.push(judul);
+    showFavourites();
+    // favourites = favourites.filter(function(item, pos) {
+    //   return favourites.indexOf(item) == pos;
+    // })
+    localStorage.setItem("fav", JSON.stringify(favourites))
+    swal("Berhasil!", "menambahkan favorit!", "success");
 
+  }
+}
 
 document.addEventListener('DOMContentLoaded', (event) => {
   const parameters = new URLSearchParams(window.location.search);
@@ -928,8 +1022,9 @@ for (let i in data) {
     <div class="col-3 mx-auto" style="margin-bottom: 30px;">
       <div class="card shadow-lg mt-4">
         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
+          
           <a class="d-block blur-shadow-image">
-            <img src="${data[i].img}" alt="img-blur-shadow" class="img-fluid shadow border-radius-lg">
+            <img src="${data[i].img}" alt="img-blur-shadow" style="height: 150px; width: 100%" class="img-fluid shadow border-radius-lg">
           </a>
         </div>
         <div class="card-body">
@@ -940,6 +1035,9 @@ for (let i in data) {
           <a href="#" id="${i}" class="text-primary icon-move-right button">Read more
             <i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
           </a>
+          <button onclick="addFavourites('${data[i].judul} - ${data[i]._id}')" style="margin-left: 110px; background-color: white; border-color: white;">
+          ❤️
+          </button>
         </div>
       </div>
     </div>

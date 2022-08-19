@@ -72,7 +72,7 @@
       <ul class="navbar-nav navbar-nav-hover ms-auto">
 
         <li class="nav-item ms-lg-auto">
-          <a class="nav-link nav-link-icon me-2" data-bs-toggle="modal" data-bs-target="#modal-favourite" href="#" >
+          <a class="nav-link nav-link-icon me-2" data-bs-toggle="modal" data-bs-target="#modal-favourite" href="#" id="favourite-button">
             <p class="d-inline text-sm z-index-1 font-weight-bold" data-bs-toggle="tooltip" data-bs-placement="bottom" title="favourite">FAVOURITE</p>
           </a>
         </li>
@@ -100,7 +100,7 @@
       <div class="row">
         <div class="col-lg-7 text-center mx-auto">
           <h1 class="text-white pt-3 mt-n5">FOLKLORE8</h1>
-          <p class="lead text-white mt-3">Free & Open Source Web UI Kit built over Bootstrap 5. <br/> Join over 1.6 million developers around the world. </p>
+          <p class="lead text-white mt-3">kumpulan cerita-cerita rakyat indonesia <br/> Lebih dari 1.000.000 visit ke web kami. </p>
         </div>
       </div>
     </div>
@@ -329,10 +329,8 @@
             <h5 class="modal-title" id="exampleModalLabel">FAVOURITE</h5>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
-          <div class="modal-body">
-            Society has put up so many boundaries, so many limitations on what’s right and wrong that it’s almost impossible to get a pure thought out.
-            <br><br>
-            It’s like a little kid, a little boy, looking at colors, and no one told him what colors are good, before somebody tells you you shouldn’t like pink because that’s for girls, or you’d instantly become a gay two-year-old.
+          <div class="modal-body" id="modal-favourite-body">
+           
           </div>
           <div class="modal-footer justify-content-between">
             <button type="button" class="btn bg-gradient-dark mb-0" data-bs-dismiss="modal">Close</button>
@@ -468,6 +466,8 @@
 <script src="./assets/js/core/popper.min.js" type="text/javascript"></script>
 <script src="./assets/js/core/bootstrap.min.js" type="text/javascript"></script>
 <script src="./assets/js/plugins/perfect-scrollbar.min.js"></script>
+
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 
 
