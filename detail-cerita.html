@@ -93,12 +93,12 @@
         <div class="row">
           <div class="col-12 mx-auto">
             <div class="mt-n8 mt-md-n9 text-center">
-              <img class="avatar avatar-xxl shadow-xl position-relative z-index-2" src="./assets/img/bruce-mars.jpg" alt="bruce" loading="lazy">
+              <img class="avatar avatar-xxl shadow-xl position-relative z-index-2" src="./assets/img/bruce-mars.jpg" alt="bruce" loading="lazy" id="img-cerita">
             </div>
             <div class="row py-5">
               <div class="col-lg-7 col-md-7 z-index-2 position-relative px-md-2 px-sm-5 mx-auto">
                 <div class="d-flex justify-content-between align-items-center mb-2">
-                  <h3 class="mb-0">Judul Cerita</h3>
+                  <h3 class="mb-0" id="judul-cerita"></h3>
                   <div class="d-block">
                     <button type="button" class="btn btn-sm btn-outline-info text-nowrap mb-0">Add Favourite</button>
                   </div>
@@ -106,20 +106,11 @@
                 <div class="row mb-4">
                   <div class="col-auto">
                     <span class="h6">Daerah: </span>
-                    <span>NamaDaerah</span>
+                    <span id="nama-daerah"></span>
                   </div>
                 </div>
-                <p class="text-lg mb-0" style="text-align: justify;">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus metus diam, elementum quis justo vulputate, posuere sodales ligula. Quisque pulvinar sit amet purus sed finibus. Nulla bibendum ante vel eros finibus, quis facilisis augue aliquam. Ut eleifend interdum massa, vitae efficitur eros gravida a. Integer quis orci tellus. Curabitur tincidunt ac sapien ac ultricies. Etiam rhoncus eros eu lectus congue, eu efficitur lectus elementum.
-                  Nulla interdum, metus quis tempus ornare, sem urna accumsan metus, a porta sem velit quis odio. Suspendisse id eleifend nulla, fermentum pulvinar enim. Aenean dapibus lacus ac arcu rhoncus eleifend. Aliquam id enim commodo, mattis risus id, sollicitudin est. Phasellus eu elit lacinia diam semper gravida. Fusce vitae neque nulla. Maecenas commodo interdum leo id viverra. Vestibulum vitae suscipit ligula.
-                  Vestibulum non ante sit amet quam rutrum convallis in ac leo. Etiam sodales eleifend odio sit amet placerat. Nullam efficitur posuere tortor, eget posuere lacus. Etiam ipsum lectus, ultrices at suscipit at, lobortis vel erat. Donec accumsan tincidunt nisl sit amet iaculis. Aenean lobortis iaculis cursus. Pellentesque vel nisl malesuada, auctor purus non, dignissim libero. Sed nec efficitur orci. In scelerisque posuere nisi, vel sollicitudin massa bibendum vel. Sed hendrerit posuere vestibulum. Nullam dignissim ullamcorper quam quis gravida. Phasellus luctus, neque et sodales interdum, diam eros dapibus diam, non vestibulum nisi justo eget orci.
-                  In dictum, erat in cursus vestibulum, nunc odio vulputate est, ut ornare nibh nisl sed metus. Quisque in pellentesque sapien. Ut scelerisque ac felis non aliquet. Pellentesque sapien odio, elementum eget fringilla vel, rhoncus a nisi. Etiam vitae cursus magna. Phasellus sed bibendum nulla, vitae volutpat odio. Nullam tincidunt eleifend dolor. Pellentesque tincidunt varius metus sed ultricies. Curabitur porta nunc sit amet rutrum blandit. Curabitur vulputate rhoncus massa, id consequat dui cursus a. In nisl enim, aliquam at felis blandit, venenatis rhoncus urna. Nulla facilisi. Curabitur ut fermentum quam. Vestibulum convallis aliquam suscipit. Nunc nibh augue, tincidunt hendrerit faucibus sed, sodales aliquam justo. Aenean dolor mi, congue in scelerisque sed, efficitur nec nunc.
-                  Pellentesque finibus est eu orci ultricies, quis suscipit lorem bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer tempus elit lacus, porttitor viverra lacus bibendum at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec aliquam sed risus id efficitur. Nam a dapibus purus. Mauris quis nisi id odio scelerisque volutpat imperdiet vel dui. Etiam consequat turpis ultrices magna convallis bibendum. In quis bibendum justo. In rhoncus, purus id fringilla tincidunt, tellus eros hendrerit nisl, a dictum nisi lectus vel risus. Aenean nec lacinia purus. Vestibulum ut sollicitudin metus. Pellentesque et condimentum odio.
-                  Nulla facilisi. In quis convallis nulla, in posuere nibh. Vivamus id convallis erat. Vestibulum faucibus lectus ac libero mattis, in faucibus enim consectetur. Donec finibus dapibus diam, pretium accumsan nibh venenatis eget. Suspendisse sed turpis pulvinar, elementum justo quis, ornare urna. Integer faucibus scelerisque velit et rutrum. In ullamcorper ac libero sed consectetur. Vivamus eget venenatis lacus. Sed volutpat lacus tellus. Proin non sapien mauris. Phasellus convallis, erat nec venenatis malesuada, enim purus ornare nunc, in tempus neque tellus malesuada velit. Morbi porttitor dictum ipsum, id fermentum odio interdum sit amet. Praesent ornare, mi vitae cursus volutpat, eros magna venenatis ipsum, at auctor nulla lectus quis velit. Duis tortor tellus, sagittis sit amet nisi vitae, rhoncus eleifend velit.
-                  Nulla mauris nisi, molestie at nunc ac, bibendum blandit diam. Cras venenatis porttitor purus, a fringilla tellus venenatis id. Nunc venenatis metus et dui vulputate, vitae posuere lacus maximus. Donec lacinia quam nec diam molestie malesuada. In pellentesque tristique risus, sit amet suscipit libero faucibus sed. Mauris mattis enim nec erat efficitur, eu condimentum nisi vehicula. Donec nec sapien neque. Vivamus vel nunc congue, consequat sem eget, viverra diam. Nullam accumsan dapibus elit nec fermentum. Mauris mollis ipsum volutpat vehicula blandit. Duis sit amet enim eget ex semper tincidunt. Maecenas mollis quam tortor, at tempor libero condimentum nec. Fusce nec magna est. Quisque leo lectus, luctus vitae commodo at, hendrerit non neque. Sed ullamcorper molestie lacus non aliquam.
-                  Sed aliquam, ipsum vel dapibus finibus, libero nisl posuere mi, ut dapibus nisi massa euismod lacus. Mauris malesuada turpis quis tellus dignissim tempor. Curabitur consequat eget ante at eleifend. Sed tristique nulla vel tristique bibendum. Mauris egestas sapien ipsum, ut hendrerit lorem consequat id. Suspendisse tempus odio ut velit rhoncus, nec feugiat nibh iaculis. Fusce massa nisl, vulputate sed suscipit quis, convallis et odio. Donec sit amet hendrerit lacus. Suspendisse non nulla nec libero euismod accumsan. Proin posuere facilisis orci at rutrum. Donec molestie eros sit amet pellentesque tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam erat volutpat. Nullam convallis, sapien a fringilla rutrum, nisi diam fringilla mauris, in tristique neque erat sed magna.
-                  Sed at risus vel dolor iaculis dignissim vel id leo. Integer ultrices lorem id ipsum interdum, at bibendum ipsum lobortis. Morbi laoreet commodo arcu ut pharetra. Donec commodo mi placerat augue dignissim blandit. Maecenas pharetra eget mi nec maximus. Integer venenatis feugiat metus sit amet interdum. Sed scelerisque semper euismod. Quisque ac sagittis diam. Etiam rutrum maximus libero vitae ullamcorper. Maecenas ullamcorper et velit eget bibendum.
-                  Integer finibus finibus tempor. Phasellus dapibus metus ac erat consectetur, in tempus nibh pulvinar. Maecenas ante turpis, sollicitudin non tellus vel, hendrerit luctus urna. Mauris sed sapien et quam semper lacinia egestas non felis. Vestibulum volutpat convallis nisl quis laoreet. Donec mollis nibh eu suscipit dignissim. Suspendisse hendrerit, lectus nec consectetur dignissim, nibh sem volutpat sem, luctus rutrum risus tellus molestie tellus. Phasellus ac mi tellus. Morbi leo orci, sagittis in metus a, feugiat porttitor mauris. Etiam pretium nec enim eget viverra. Curabitur ultrices dolor lacus, ut fringilla tellus consequat sit amet. Ut tempus, lectus a luctus rutrum, ipsum nulla venenatis sem, et malesuada augue felis sit amet elit. Duis erat libero, placerat at lorem vel, ultricies mollis velit. Sed at lorem nec nulla porta bibendum quis vel dui. Mauris malesuada finibus velit, sed mollis lectus dictum at. <br>
+                <p class="text-lg mb-0" style="text-align: justify;" id="article-content">
+
                 </p>
               </div>
             </div>
@@ -198,6 +189,11 @@
   <!--  Google Maps Plugin    -->
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTTfWur0PDbZWPr7Pmq8K3jiDp0_xUziI"></script>
   <script src="./assets/js/material-kit.min.js?v=3.0.4" type="text/javascript"></script>
+
+  <!-- ===================================================== -->
+  <script src="./assets/js/js-folklore.js"></script>
+
+
 </body>
 
 </html>

@@ -89,7 +89,7 @@
         </li>
         
         <li class="nav-item my-auto ms-3 ms-lg-0">
-          <a href="https://www.creative-tim.com/product/material-kit-pro" class="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0">NAMA USERNAME</a>
+          <a href="https://www.creative-tim.com/product/material-kit-pro" class="btn btn-sm  bg-gradient-primary  mb-0 me-1 mt-2 mt-md-0" id="user-name">NAMA USERNAME</a>
         </li>
       </ul>
     </div>
@@ -121,7 +121,7 @@
         <div class="row">
           <div class="col-md-4 position-relative">
             <div class="p-3 text-center">
-              <h1 class="text-gradient text-primary"><span id="state1" countTo="70">0</span>+</h1>
+              <h1 class="text-gradient text-primary"><span id="state1" countTo="90">0</span>+</h1>
               <h5 class="mt-3">Coded Elements</h5>
               <p class="text-sm font-weight-normal">From buttons, to inputs, navbars, alerts or cards, you are covered</p>
             </div>
@@ -538,6 +538,8 @@
 
 <!--  Plugin for Parallax, full documentation here: https://github.com/wagerfield/parallax  -->
 <script src="./assets/js/plugins/parallax.min.js"></script>
+
+<!--==================== INI FUNCTION YANG DI BUAT SENDIRI =============================-->
 <script src="./assets/js/js-folklore.js"></script>
 
 
@@ -574,122 +576,7 @@
       console.error(countUp2.error);
     };
   }
-
-  // dari sini
-  // let data = [
-  //   {
-  //     title: "judul1",
-  //     province: "DKI Jakarta",
-  //     image: "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/08/02/726581976.png",
-  //     synopsis: "One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive.",
-  //     story: "ini content One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive."
-  //   },
-  //   {
-  //     title: "judul2",
-  //     province: "Jawa Barat",
-  //     image: "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/08/02/726581976.png",
-  //     synopsis: "One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive.",
-  //     story: "ini content One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive."
-  //   },
-  //   {
-  //     title: "judul3",
-  //     province: "DKI Jakarta",
-  //     image: "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/08/02/726581976.png",
-  //     synopsis: "One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive.",
-  //     story: "ini content One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive."
-  //   },
-  //   {
-  //     title: "judul4",
-  //     province: "Jawa Barat",
-  //     image: "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/08/02/726581976.png",
-  //     synopsis: "One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive.",
-  //     story: "ini content One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive."
-  //   },
-  //   {
-  //     title: "judul5",
-  //     province: "DKI Jakarta",
-  //     image: "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/08/02/726581976.png",
-  //     synopsis: "One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive.",
-  //     story: "ini content One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive."
-  //   },
-  //   {
-  //     title: "judul6",
-  //     province: "Jawa Barat",
-  //     image: "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/08/02/726581976.png",
-  //     synopsis: "One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive.",
-  //     story: "ini content One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive."
-  //   },
-  // ]
-
-  // let tampung = document.getElementById("contoh")
-
-  // for (let i in data) {
-  //   tampung.innerHTML += `
-  //     <div class="col-3 mx-auto" style="margin-bottom: 30px;">
-  //       <div class="card shadow-lg mt-4">
-  //         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
-  //           <a class="d-block blur-shadow-image">
-  //             <img src="${data[i].image}" alt="img-blur-shadow" class="img-fluid shadow border-radius-lg">
-  //           </a>
-  //         </div>
-  //         <div class="card-body">
-  //           <h4>${data[i].title}</h4>
-  //           <p>
-  //             One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive.
-  //           </p>
-  //           <a href="javascript:;" class="text-primary icon-move-right">More about us
-  //             <i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
-  //           </a>
-  //         </div>
-  //       </div>
-  //     </div>
-  //   `
-  // }
-  // <div class="col-3 mx-auto">
-  //       <div class="card shadow-lg mt-4">
-  //         <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
-  //           <a class="d-block blur-shadow-image">
-  //             <img src="https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/08/02/726581976.png" alt="img-blur-shadow" class="img-fluid shadow border-radius-lg">
-  //           </a>
-  //         </div>
-  //         <div class="card-body">
-  //           <h4>Material Kit</h4>
-  //           <p>
-  //             One of the most beautiful and complex UI Kits built by the team behind Creative Tim. That&#34;s pretty impressive.
-  //           </p>
-  //           <a href="javascript:;" class="text-primary icon-move-right">More about us
-  //             <i class="fas fa-arrow-right text-xs ms-1" aria-hidden="true"></i>
-  //           </a>
-  //         </div>
-  //       </div>
-  //     </div>
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </body>
 
