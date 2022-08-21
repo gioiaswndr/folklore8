@@ -921,9 +921,6 @@ let data = [
 data = data.map((prev, _id) => ({...prev, _id}))
 
 let favourites = [];
-// for () {
-//   push(data[i].judul)
-// }
 
 function removeFavourites(index) {
   swal({
@@ -963,8 +960,7 @@ function showFavourites() {
   } else {
     localStorage.setItem("fav", [])
   }
-
-  let favourites = JSON.parse(localStorage.getItem("fav"))
+  
   for (let i = 0; i < favourites.length; i++) {
     // document.getElementById("modal-favourite-body").innerHTML += `<h2>${favourites[i]}<button onclick="removeFavourites(${i})" style="margin-left: 100px">🗑</button></h2>`
     // console.log(favourites[i])
