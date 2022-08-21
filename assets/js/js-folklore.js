@@ -957,6 +957,13 @@ function removeFavourites(index) {
 }
 function showFavourites() {
   document.getElementById("modal-favourite-body").innerHTML = ""
+  // tambahin ini doang 
+  if(localStorage.getItem("fav")) {
+    favourites = JSON.parse(localStorage.getItem("fav"))
+  } else {
+    localStorage.setItem("fav", [])
+  }
+
   let favourites = JSON.parse(localStorage.getItem("fav"))
   for (let i = 0; i < favourites.length; i++) {
     // document.getElementById("modal-favourite-body").innerHTML += `<h2>${favourites[i]}<button onclick="removeFavourites(${i})" style="margin-left: 100px">🗑</button></h2>`
@@ -971,15 +978,6 @@ function showFavourites() {
   }
 }
 showFavourites();
-
-// function cetakNama () {
-//   var nama = prompt("masukan nama terlebih dahulu yach:")
-
-//   return nama
-// }
-// let namaUser = document.getElementById("user-name");
-// let getCetakNama = cetakNama()
-// namaUser.innerText = getCetakNama
 
 function addFavourites(judul) {
   let favouritesLocalStorage = localStorage.getItem("fav") ? JSON.parse(localStorage.getItem("fav")) : []
